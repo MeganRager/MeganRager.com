@@ -1,0 +1,62 @@
+body {
+        color: #4b4648;
+        font-size: 14px;
+        font-family: "Courier New", Courier, monospace;
+        background-image:url('http://1.bp.blogspot.com/--G1oJYQ9_aI/TWBdLs5wCaI/AAAAAAAAK1k/O2g_cYBBNg0/s1600/1abackwoodplain.jpg');
+    	margin-right: 6cm;
+    	margin-left: 8cm;
+    	margin-top: 1cm;
+    	margin-bottom: 2cm;
+    }
+      h1 {
+      	margin-top: 1.5cm;
+        color: #660033;
+        font-size: 35px;
+        font: georgia;
+        text-align: left;
+      }
+      h2 {
+      	color: #993366;
+      	font-size: 22px;
+      	text-align: left;
+      }
+      h3 {
+      	color: #660066;
+      	font-size: 16px;
+      	text-align: left;
+      }
+      #ed {
+      	font-style: italic;
+      	text-align: left;
+      	font-size: 14px;
+      }
+      img {
+      	float: left;
+      	margin-right: 1cm;
+      }
+      a { 
+		color:#000066; 
+		text-decoration:none; 
+		cursor:pointer; 
+		} 
+a:visited { 
+color:#336699; 
+} 
+
+a:hover { 
+color:#ff6600; 
+text-decoration:underline; 
+} 
+
+a:active { 
+color:#ffcc99; 
+cursor:wait; 
+} 
+
+a:link {color: #009900;} 
+a:visited {color: #999999;} 
+a:hover {color: #333333;} 
+a:focus {color: #333333;} 
+a:active {color: #009900;}  
+} 
+</style>
