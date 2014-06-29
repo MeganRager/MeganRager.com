@@ -1,64 +1,55 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
 body {
-        color: #4b4648;
-        font-size: 14px;
-        font-family: "Helvetica," Arial, sans;
-        background-image:url('http://1.bp.blogspot.com/--G1oJYQ9_aI/TWBdLs5wCaI/AAAAAAAAK1k/O2g_cYBBNg0/s1600/1abackwoodplain.jpg');
-    	margin-right: 6cm;
-    	margin-left: 8cm;
-    	margin-top: 1cm;
-    	margin-bottom: 2cm;
-    }
-      h1 {
-      	margin-top: 1.5cm;
-        color: #660033;
-        font-size: 45px;
-        font: georgia;
-        text-align: left;
-        color: rgb(0, 122, 255);
-        text-shadow: 3px 3px 6px grey;
-      }
-      h2 {
-      	color: #993366;
-      	font-size: 22px;
-      	text-align: left;
-      }
-      h3 {
-      	color: #660066;
-      	font-size: 16px;
-      	text-align: left;
-      }
-      #ed {
-      	font-style: italic;
-      	text-align: left;
-      	font-size: 14px;
-      }
-      img {
-      	float: left;
-      	margin-right: 1cm;
-      }
-      a { 
-		color:#000066; 
-		text-decoration:none; 
-		cursor:pointer; 
-		} 
-a:visited { 
-color:#336699; 
-} 
-
-a:hover { 
-color:#ff6600; 
-text-decoration:underline; 
-} 
-
-a:active { 
-color:#ffcc99; 
-cursor:wait; 
-} 
-
-a:link {color: #009900;} 
+  color: #4b4648;
+  font-size: 14px;
+  font-family: 'Oswald', sans-serif;
+  background-color: #E65C00; 
+  height: 100%;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h1 {
+ color: black;
+ font-size: 45px;
+ text-align: left;
+ text-shadow: 3px 3px 6px gray;
+ margin-top: 0;
+}
+h2 {
+ color: #E81919;
+ font-size: 22px;
+ text-align: left;
+}
+h3 {
+ color: #E62E00;
+ font-size: 16px;
+ text-align: left;
+}
+img {
+ float: left;
+ margin-right: 1cm;
+}
+#ed {
+ font-style: italic;
+ text-align: left;
+ font-size: 14px;
+}
+#bodywrapper {
+  width: 65%;
+  margin: 0 auto;
+  background-color: #FFFFEB;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  padding-top: 3rem;
+  border-right: solid black 2px; 
+  border-left: solid black 2px;
+  margin-bottom: 0 auto;
+  box-shadow: 5px 0px 5px #917979, -5px 0px 5px #917979;
+  padding-bottom: 4rem;
+}
+a{color: #blue;} 
 a:visited {color: #999999;} 
 a:hover {color: #333333;} 
 a:focus {color: #333333;} 
 a:active {color: #009900;}  
 } 
-</style>
