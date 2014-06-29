@@ -55,5 +55,6 @@ a:active {color: #009900;}
 } 
 #LinkedIn{
   float: right;
+  width: 100px;
   zoom: 2;
 }
