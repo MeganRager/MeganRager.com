@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 body {
   color: #4b4648;
-  font-size: 14px;
+  font-size: 14pt;
   font-family: 'Oswald', sans-serif;
   background-color: #E65C00; 
   height: 100%;
@@ -17,12 +17,12 @@ h1 {
 }
 h2 {
  color: #E81919;
- font-size: 22px;
+ font-size: 18pt;
  text-align: left;
 }
 h3 {
  color: #E62E00;
- font-size: 16px;
+ font-size: 16pt;
  text-align: left;
 }
 img {
