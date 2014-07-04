@@ -29,3 +29,15 @@ i {
 #links {
   float: right;
 }
+#mainpic {
+  border-radius: 360px;
+  height: 130px;
+  float: left;
+  margin-bottom: 25px;
+  margin-right: 20px;
+}
+#megan-rager {
+  float: left;
+  font-size: 30pt;
+  color: black;
+}
